@@ -17,6 +17,7 @@ var canvas;
 var debug = false;
 var buf;
 
+
 var width;
 var height;
 
