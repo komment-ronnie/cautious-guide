@@ -1,6 +1,5 @@
 var vShaderQuellcode;
 var fShaderQuellcode;
-
 var dataLoc;
 var hash1Loc;
 var midstateLoc;
