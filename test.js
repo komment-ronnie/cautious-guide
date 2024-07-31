@@ -5,7 +5,6 @@ var hash1Loc;
 var midstateLoc;
 var targetLoc;
 var nonceLoc;
-
 var maxNonce = 0xFFFFFFFF;
 var maxCnt = 0;
 var reportPeriod = 1000;
